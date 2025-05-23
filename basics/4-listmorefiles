@@ -1,2 +1,2 @@
-#!/bin/bush
-ls -a
+#!/bin/bash
+ls -la
